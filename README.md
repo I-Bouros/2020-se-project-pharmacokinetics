@@ -1,4 +1,4 @@
-# 2020-software-engineering-projects-pk
+# Pharmacokinetics Modelling and Drug Delivery Research
 
 Pharmacokinetics (PK) is the branch of pharmacology responsible for the study of how different substances interact with living organisms, in particular with the way they are assimilated by said organisms. It provides a quantitative basis for the description of the delivery of a particular drug to a patient, through studying its uptake behaviour and how it diffuses in the body over time.
 
