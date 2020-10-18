@@ -14,8 +14,8 @@ Such a model divides the organism into compartments, each corresponding to an or
 
 Each such model is uniquely characterised by parameters entirely dependent on the nature of the average patient and/or of the medication scheme, resulting in three factors that affect the behaviour of the drug:
 * Experiment constants:
-** Type of dosing: intravenous vs subcutaneous - it affects the number of compartments we need to consider for an accurate representation of the phenomenon
-** Dosing protocol: rate at which the drug enters the system - the main fine tuning mechanism we would use to insure optimum efficiency of the treatment and that no adverse effects occur due to overdosing
+''' Type of dosing: intravenous vs subcutaneous - it affects the number of compartments we need to consider for an accurate representation of the phenomenon
+''' Dosing protocol: rate at which the drug enters the system - the main fine tuning mechanism we would use to insure optimum efficiency of the treatment and that no adverse effects occur due to overdosing
 *  Physiological constants: such as rates of diffusion within compartments, exchange rates between compartments and rate at which drug leaves the body (i.e. Clearance Rate)
 
 Following this methodology proves to be essential in the development of new treatments, to ensure a sufficient quantity of the active substance is administered to the subject for the medicine to be effective.
