@@ -1,0 +1,2 @@
+A model has a solution. A protocol also has a solution. Moreover, model and protocol are independent of each other. They are independent choices users make to the PK model. 
+Therefore, we have 2 composition relationship and no inheritance. 
