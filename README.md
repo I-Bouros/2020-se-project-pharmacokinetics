@@ -10,12 +10,12 @@ There are four physiological processes that are quantified in any pharmacokineti
 * __Metabolism__
 * __Excretion__
 
-Such a model divides the organism into compartments, each corresponding to an organ or system of organs (e.g. blood vessels, muscle tissue) and quantifies the changes in the concentration of the drug in each compartment through a series or ordinary differential equations (ODEs). There is one central compartment through which the drug first enters the body. A number of peripheral compartments, all connected with the central one, but with no interactions present between them, may also be modelled as part of the system. This number can range from zero to many and depends on the type of treatment, i.e. which organs or system of organs it will engage until the active substance reaches its target area.
+Such a model divides the organism into compartments, each corresponding to an organ or system of organs (e.g. blood vessels, muscle tissue) and quantifies the changes in the concentration of the drug in each compartment through a series of ordinary differential equations (ODEs). There is one central compartment through which the drug first enters the body. A number of peripheral compartments, all connected with the central one, but with no interactions present between them, may also be modelled as part of the system. This number can range from zero to many and depends on the type of treatment, i.e. which organs or system of organs it will engage until the active substance reaches its target area.
 
 Each such model is uniquely characterised by parameters entirely dependent on the nature of the average patient and/or of the medication scheme, resulting in three factors that affect the behaviour of the drug:
 * __Experiment constants:__
   * _Type of dosing_: intravenous vs subcutaneous - it affects the number of compartments we need to consider for an accurate representation of the phenomenon
-  * _Dosing protocol_: rate at which the drug enters the system - the main fine tuning mechanism we would use to insure optimum efficiency of the treatment and that no adverse effects occur due to overdosing
+  * _Dosing protocol_: rate at which the drug enters the system - the main fine tuning mechanism we would use to ensure optimum efficiency of the treatment and that no adverse effects occur due to overdosing
 *  __Physiological constants:__ such as rates of diffusion within compartments, exchange rates between compartments and rate at which drug leaves the body (i.e. Clearance Rate)
 
 Following this methodology proves to be essential in the development of new treatments, to ensure a sufficient quantity of the active substance is administered to the subject for the medicine to be effective.
